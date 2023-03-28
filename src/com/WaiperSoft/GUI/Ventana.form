@@ -162,7 +162,7 @@
                       <Component id="themesCBox" min="-2" max="-2" attributes="0"/>
                       <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   </Group>
-                  <Component id="labelTitle" max="32767" attributes="0"/>
+                  <Component id="labelTitle" pref="89" max="32767" attributes="0"/>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
               <Component id="jPanel1" max="32767" attributes="0"/>
@@ -1941,7 +1941,7 @@
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
           <Image iconType="3" name="/Images/Logo.png"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="waiperSoft"/>
+        <Property name="text" type="java.lang.String" value="WaiperSOFT"/>
       </Properties>
     </Component>
     <Container class="javax.swing.JPanel" name="panelLatex">
@@ -2040,16 +2040,15 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" alignment="1" attributes="0">
                   <Group type="103" groupAlignment="1" attributes="0">
-                      <Component id="jButton1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jButton1" alignment="0" pref="66" max="32767" attributes="0"/>
                       <Group type="102" alignment="1" attributes="0">
-                          <EmptySpace max="-2" attributes="0"/>
                           <Component id="jLabel1" min="-2" pref="16" max="-2" attributes="0"/>
-                          <EmptySpace max="32767" attributes="0"/>
-                          <Component id="outRText" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="outRText" max="32767" attributes="0"/>
                       </Group>
-                      <Component id="jScrollPane1" alignment="1" min="-2" pref="52" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" alignment="1" pref="0" max="32767" attributes="0"/>
                   </Group>
-                  <EmptySpace max="-2" attributes="0"/>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
